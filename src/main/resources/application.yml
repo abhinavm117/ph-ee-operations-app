@@ -90,3 +90,5 @@ application:
 channel-connector:
   url: http://bb-connector-channel.mifos.io
   transfer-path: /channel/transfer
+
+tenants: lion,gorilla,rhino
